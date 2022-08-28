@@ -1,0 +1,20 @@
+PODS:
+  - AWSCore (2.27.9)
+  - AWSRekognition (2.27.9):
+    - AWSCore (= 2.27.9)
+
+DEPENDENCIES:
+  - AWSRekognition (~> 2.27)
+
+SPEC REPOS:
+  trunk:
+    - AWSCore
+    - AWSRekognition
+
+SPEC CHECKSUMS:
+  AWSCore: 3419bcaeec8d7809efa32f0e83f151ef8e93ad78
+  AWSRekognition: 779c01d7352190eee7eebf6179b32a2a312e7a3d
+
+PODFILE CHECKSUM: 17113da5ebe7b64d37b16d33e5d3ccb03a9ffe20
+
+COCOAPODS: 1.11.2
